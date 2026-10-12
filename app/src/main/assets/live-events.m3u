@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="live-event-1" tvg-name="Live Sports Event 1" tvg-logo="https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=320" group-title="Live Events",Live Sports Championship HD
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:-1 tvg-id="live-event-2" tvg-name="Live Special Event 2" tvg-logo="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?w=320" group-title="Live Events",Live Special Broadcast Arena
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="live-event-3" tvg-name="Live Event Premier" tvg-logo="https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=320" group-title="Live Events",Premier Global Event Live
+https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8

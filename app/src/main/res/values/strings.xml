@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UragonTv</string>
+    <string name="app_tagline">Live Philippine &amp; Global Smart TV Streaming</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_categories">Categories</string>
+    <string name="nav_regions">Regions</string>
+    <string name="nav_favorites">Favorites</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_settings">Settings</string>
+    <string name="watch_live">WATCH LIVE</string>
+    <string name="add_to_favorites">Add to Favorites</string>
+    <string name="remove_from_favorites">Remove Favorite</string>
+    <string name="live_badge">LIVE</string>
+    <string name="quality_hd">1080p FHD</string>
+    <string name="quality_4k">4K UHD</string>
+    <string name="quick_channel_picker">Quick Channels</string>
+    <string name="aspect_ratio">Aspect Ratio</string>
+    <string name="refresh_stream">Reload Stream</string>
+    <string name="no_favorites_title">No Bookmarked Channels</string>
+    <string name="no_favorites_desc">Press the Favorite button on any channel card or in the player overlay to pin channels here for quick access.</string>
+    <string name="search_hint">Search channels, regions, or categories…</string>
+    <string name="custom_playlist_url">Custom M3U / Playlist URL</string>
+    <string name="about_title">About UragonTv</string>
+    <string name="about_desc">High-performance Native Android TV live streaming engine with D-Pad remote navigation, HLS/DASH adaptive bitrate playback, and dynamic M3U playlists.</string>
+    <string name="settings_reconnect_title">Auto-Reconnect on Drops</string>
+    <string name="settings_hw_accel_title">Hardware Acceleration</string>
+</resources>

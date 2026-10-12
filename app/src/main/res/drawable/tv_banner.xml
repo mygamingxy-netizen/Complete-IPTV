@@ -1,0 +1,31 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="180dp"
+    android:viewportWidth="320"
+    android:viewportHeight="180">
+    <path
+        android:fillColor="#0B0C10"
+        android:pathData="M0,0h320v180h-320z" />
+    <!-- Gradient accent circle / shield -->
+    <path
+        android:fillColor="#1E1E24"
+        android:pathData="M160,20 C220,20 270,50 270,90 C270,130 220,160 160,160 C100,160 50,130 50,90 C50,50 100,20 160,20 Z" />
+    <path
+        android:strokeColor="#D4AF37"
+        android:strokeWidth="3"
+        android:pathData="M160,28 C210,28 250,55 250,90 C250,125 210,152 160,152 C110,152 70,125 70,90 C70,55 110,28 160,28 Z" />
+    <!-- Crown / TV Play symbol -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M148,68 L182,90 L148,112 Z" />
+    <!-- Gold highlights -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M125,58 L140,70 L130,73 Z" />
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M195,58 L180,70 L190,73 Z" />
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M160,50 L166,65 L154,65 Z" />
+</vector>

@@ -1,0 +1,227 @@
+[
+  {
+    "id": "gma-7",
+    "name": "GMA 7 (Kapuso Network)",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/GMA_Network_2022_logo.svg/320px-GMA_Network_2022_logo.svg.png",
+    "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+    "category": "National Networks",
+    "region": "Nationwide",
+    "isFavorite": true
+  },
+  {
+    "id": "tv5-ph",
+    "name": "TV5 Philippines",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/TV5_logo_2019.svg/320px-TV5_logo_2019.svg.png",
+    "streamUrl": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8",
+    "category": "National Networks",
+    "region": "Nationwide",
+    "isFavorite": true
+  },
+  {
+    "id": "a2z-11",
+    "name": "A2Z Channel 11",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/A2Z_Channel_11_logo.svg/320px-A2Z_Channel_11_logo.svg.png",
+    "streamUrl": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+    "category": "National Networks",
+    "region": "Nationwide",
+    "isFavorite": false
+  },
+  {
+    "id": "ptv-4",
+    "name": "PTV 4 (People's Television)",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/PTV_logo_%282017%29.svg/320px-PTV_logo_%282017%29.svg.png",
+    "streamUrl": "https://test-streams.mux.dev/test_001/stream.m3u8",
+    "category": "National Networks",
+    "region": "Nationwide",
+    "isFavorite": false
+  },
+  {
+    "id": "ibc-13",
+    "name": "IBC 13 Philippines",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/IBC_13_logo_%282019%29.svg/320px-IBC_13_logo_%282019%29.svg.png",
+    "streamUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "category": "National Networks",
+    "region": "Nationwide",
+    "isFavorite": false
+  },
+  {
+    "id": "alltv-2",
+    "name": "ALLTV Channel 2",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/ALLTV_logo.svg/320px-ALLTV_logo.svg.png",
+    "streamUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "category": "National Networks",
+    "region": "Nationwide",
+    "isFavorite": false
+  },
+  {
+    "id": "bicol-tv",
+    "name": "Uragon Bicol TV Live",
+    "logoUrl": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?w=320",
+    "streamUrl": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8",
+    "category": "Regional / Local",
+    "region": "Bicol / Luzon",
+    "isFavorite": true
+  },
+  {
+    "id": "radyo-pilipinas-bicol",
+    "name": "Radyo Pilipinas Bicol TV",
+    "logoUrl": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=320",
+    "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+    "category": "Regional / Local",
+    "region": "Bicol / Luzon",
+    "isFavorite": false
+  },
+  {
+    "id": "cebu-tv",
+    "name": "Cebu Live Stream Visayas",
+    "logoUrl": "https://images.unsplash.com/photo-1542224566-6e85f2e6772f?w=320",
+    "streamUrl": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+    "category": "Regional / Local",
+    "region": "Visayas",
+    "isFavorite": false
+  },
+  {
+    "id": "davao-network",
+    "name": "Davao Regional Network",
+    "logoUrl": "https://images.unsplash.com/photo-1579546929518-9e396f3cc809?w=320",
+    "streamUrl": "https://test-streams.mux.dev/test_001/stream.m3u8",
+    "category": "Regional / Local",
+    "region": "Mindanao",
+    "isFavorite": false
+  },
+  {
+    "id": "ilocos-live",
+    "name": "Northern Luzon Ilocos TV",
+    "logoUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=320",
+    "streamUrl": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8",
+    "category": "Regional / Local",
+    "region": "Luzon / Bicol",
+    "isFavorite": false
+  },
+  {
+    "id": "one-news",
+    "name": "One News HD 24/7",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/One_News_logo.svg/320px-One_News_logo.svg.png",
+    "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+    "category": "News 24/7",
+    "region": "Nationwide",
+    "isFavorite": true
+  },
+  {
+    "id": "anc-news",
+    "name": "ANC News Live",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/ANC_logo_%282015%29.svg/320px-ANC_logo_%282015%29.svg.png",
+    "streamUrl": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8",
+    "category": "News 24/7",
+    "region": "Nationwide",
+    "isFavorite": true
+  },
+  {
+    "id": "teleradyo-serbisyo",
+    "name": "TeleRadyo Serbisyo Live",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/TeleRadyo_Serbisyo_logo.svg/320px-TeleRadyo_Serbisyo_logo.svg.png",
+    "streamUrl": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+    "category": "News 24/7",
+    "region": "Nationwide",
+    "isFavorite": false
+  },
+  {
+    "id": "dzrh-tv",
+    "name": "DZRH News Television",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/DZRH_News_Television_logo.svg/320px-DZRH_News_Television_logo.svg.png",
+    "streamUrl": "https://test-streams.mux.dev/test_001/stream.m3u8",
+    "category": "News 24/7",
+    "region": "Nationwide",
+    "isFavorite": false
+  },
+  {
+    "id": "net-25",
+    "name": "NET 25 Philippines",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/NET25_logo_%282020%29.svg/320px-NET25_logo_%282020%29.svg.png",
+    "streamUrl": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8",
+    "category": "News 24/7",
+    "region": "Nationwide",
+    "isFavorite": false
+  },
+  {
+    "id": "one-sports",
+    "name": "One Sports Plus HD",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/One_Sports_logo.svg/320px-One_Sports_logo.svg.png",
+    "streamUrl": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8",
+    "category": "Sports",
+    "region": "Nationwide",
+    "isFavorite": true
+  },
+  {
+    "id": "pba-rush",
+    "name": "PBA Rush 24/7",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/PBA_Rush_logo.svg/320px-PBA_Rush_logo.svg.png",
+    "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+    "category": "Sports",
+    "region": "Nationwide",
+    "isFavorite": true
+  },
+  {
+    "id": "premier-sports",
+    "name": "Premier Sports Philippines",
+    "logoUrl": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=320",
+    "streamUrl": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+    "category": "Sports",
+    "region": "Nationwide",
+    "isFavorite": false
+  },
+  {
+    "id": "cinema-one",
+    "name": "Cinema One Pinoy Blockbusters",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Cinema_One_logo.svg/320px-Cinema_One_logo.svg.png",
+    "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+    "category": "Movies",
+    "region": "Nationwide",
+    "isFavorite": true
+  },
+  {
+    "id": "viva-cinema",
+    "name": "Viva Cinema Plus",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Viva_Cinema_logo_%282020%29.svg/320px-Viva_Cinema_logo_%282020%29.svg.png",
+    "streamUrl": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8",
+    "category": "Movies",
+    "region": "Nationwide",
+    "isFavorite": false
+  },
+  {
+    "id": "jeepney-tv",
+    "name": "Jeepney TV Classic Hits",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Jeepney_TV_logo.svg/320px-Jeepney_TV_logo.svg.png",
+    "streamUrl": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+    "category": "Entertainment",
+    "region": "Nationwide",
+    "isFavorite": false
+  },
+  {
+    "id": "myx-ph",
+    "name": "MYX Music Television",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Myx_Global_logo_2020.svg/320px-Myx_Global_logo_2020.svg.png",
+    "streamUrl": "https://test-streams.mux.dev/test_001/stream.m3u8",
+    "category": "Entertainment",
+    "region": "Nationwide",
+    "isFavorite": false
+  },
+  {
+    "id": "dw-english",
+    "name": "DW English Live Global",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_logo.svg/320px-Deutsche_Welle_logo.svg.png",
+    "streamUrl": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8",
+    "category": "News 24/7",
+    "region": "International",
+    "isFavorite": false
+  },
+  {
+    "id": "france-24",
+    "name": "France 24 English HD",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/France_24_logo.svg/320px-France_24_logo.svg.png",
+    "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+    "category": "News 24/7",
+    "region": "International",
+    "isFavorite": false
+  }
+]

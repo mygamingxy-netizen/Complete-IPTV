@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Default Philippines & Regional",
+    "url": "local://sources.m3u"
+  },
+  {
+    "name": "Live Events & Sports",
+    "url": "https://raw.githubusercontent.com/mygamingxy-netizen/live-events-playlist/main/docs/live-events.m3u"
+  }
+]

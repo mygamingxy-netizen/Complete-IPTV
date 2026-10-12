@@ -1,0 +1,6 @@
+{
+  "name": "UragonTv",
+  "description": "UragonTv - Live Philippine & International Streaming for Android TV",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

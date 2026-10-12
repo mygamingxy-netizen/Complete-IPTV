@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.UragonTv" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/obsidian_black</item>
+        <item name="android:colorBackground">@color/obsidian_black</item>
+        <item name="android:statusBarColor">@color/obsidian_black</item>
+        <item name="android:navigationBarColor">@color/obsidian_black</item>
+    </style>
+</resources>

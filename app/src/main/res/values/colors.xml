@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="obsidian_black">#0B0C10</color>
+    <color name="dark_background">#121212</color>
+    <color name="charcoal_surface">#1E1E24</color>
+    <color name="charcoal_surface_elevated">#282830</color>
+    <color name="metallic_gold">#D4AF37</color>
+    <color name="soft_gold">#FFD700</color>
+    <color name="gold_border">#D4AF37</color>
+    <color name="gold_glow">#40D4AF37</color>
+    <color name="live_red">#E50914</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#CCCCCC</color>
+    <color name="text_muted">#8E8E93</color>
+</resources>

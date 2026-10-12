@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="gma-7" tvg-name="GMA 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/GMA_Network_2022_logo.svg/320px-GMA_Network_2022_logo.svg.png" group-title="National Networks",GMA 7 (Kapuso Network)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="tv5-ph" tvg-name="TV5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/TV5_logo_2019.svg/320px-TV5_logo_2019.svg.png" group-title="National Networks",TV5 Philippines
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:-1 tvg-id="bicol-tv" tvg-name="Uragon Bicol TV" tvg-logo="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?w=320" group-title="Regional / Local",Uragon Bicol TV Live
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:-1 tvg-id="one-news" tvg-name="One News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/One_News_logo.svg/320px-One_News_logo.svg.png" group-title="News 24/7",One News HD 24/7
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="anc-news" tvg-name="ANC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/ANC_logo_%282015%29.svg/320px-ANC_logo_%282015%29.svg.png" group-title="News 24/7",ANC News Live
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:-1 tvg-id="one-sports" tvg-name="One Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/One_Sports_logo.svg/320px-One_Sports_logo.svg.png" group-title="Sports",One Sports Plus HD
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:-1 tvg-id="pba-rush" tvg-name="PBA Rush" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/PBA_Rush_logo.svg/320px-PBA_Rush_logo.svg.png" group-title="Sports",PBA Rush 24/7
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="cinema-one" tvg-name="Cinema One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Cinema_One_logo.svg/320px-Cinema_One_logo.svg.png" group-title="Movies",Cinema One Pinoy Blockbusters
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="dw-english" tvg-name="DW English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_logo.svg/320px-Deutsche_Welle_logo.svg.png" group-title="News 24/7",DW English Live Global
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
